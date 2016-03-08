@@ -11,7 +11,7 @@ body {
 	font-family: helvetica;
 }
 
-#encabezado {
+header {
 	display: table-row;
 	height: 30px;
 	margin: 0px;
@@ -25,12 +25,12 @@ body {
 	
 }
 
-#cuerpo{
+main{
 	height: 100%;
 	padding-bottom: 10px;
 }
 
-#menu {
+nav {
 	display: table-row;
 	width: 150px;
 	height: 100%;
@@ -42,7 +42,7 @@ body {
 	
 }
 
-#contenido {
+article {
 	display: table-row;
 	width: 80%;
 	height: 100%;
